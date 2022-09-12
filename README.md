@@ -1,2 +1,1 @@
-# manikhilho.github.io
-Personal Website
+Ekxin paxi aau la, kaam hudai xa
