@@ -57,22 +57,14 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'manikhilho',
+    twitter: 'manikhilho',
     facebook: '',
-    instagram: '',
-    youtube: '', // example: 'pewdiepie'
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
-    telegram: '',
-    website: 'https://www.arifszn.com',
+    instagram: 'manikhilho',
+    medium: 'manikhilho',
+    website: 'https://www.manikhilho.wordpress.com',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'nilaamhr@gmail.com',
   },
   resume: {
     fileUrl:
