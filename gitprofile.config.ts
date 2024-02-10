@@ -96,11 +96,28 @@ const CONFIG = {
       tasks: 'Tuning existing Use Cases and Runbooks and creating new where necessary based on the needs of the company and threat model. \nResearching and developing in-house malicious macro detection tool. \nIncident Detection and Response.'
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'LOGPOINT PVT. LTD, Lalitpur, Nepal',
+      position: 'Associate Security Analytics Engineer',
+      from: 'February 2022',
+      to: 'March 2023',
+      companyLink: 'https://www.logpoint.com/en/?s=nilaa+maharjan&post_type%5B%5D=any&fs=1&lang=en',
+      tasks: 'Demonstrated research capabilities by analyzing, and creating content based on a wide variety of commodity andAPT-based malware and techniques. \n Led Emerging Threat Protection Services and published blogs, papers and reports. \n Interpret Threat intelligence’s IOCs and use them efficiently for creating and distributing alert queries, dashboards and other data visualizations. \n Translated research and analytical findings into security use. \n Built defensive, highly customized security playbooks using the LogPoint SOAR platform. \n Create technical documentation, end of the year reports from Security Team and research papers around the content deployed to the SIEM. \n'
+    },    
+    {
+      company: 'DIGITAL NETWORK SOLUTIONS (DNS), Kathmandu, Nepal',
+      position: 'Application Security Engineer',
+      from: 'August 2020',
+      to: 'November 2021',
+      companyLink: 'https://digitalnetwork.com.np/',
+      tasks: 'Deployed and provided support for BIG-IP F5 Web Application Firewall at various reputed institutions. \n Planned and implemented Network Design and Architecture for Network and Application Security (Firewall, DNS, DHCP, VPN, NAT Routing, Load Balancing, TCP/IP, Packet Capture and Analysis). \n Created reports drafts, Proof of Concepts, deployment scenarios, Support reports and Root Cause Analysis Reports. \n Deployed and provided support for Global Server Load Balancing (GSLB) services. \n Provided customer support on HCI’s, Cloudflare DNS and WAF for quick deployments and product support. \n'
+    },
+    {
+      company: 'NCELL PVT. LTD, Kathmandu, Nepal',
+      position: 'Information Security Analyst',
+      from: 'August 2020',
+      to: 'November 2021',
+      companyLink: 'https://digitalnetwork.com.np/',
+      tasks: 'Tested the company web portal for bugs, issues, and vulnerabilities and reported them immediately. \n Took a hands-on approach with network security operations. \n Conducted System/Network scanning and auditing for monthly threat and security vulnerability assessment. \n Ran, administered, and reported on monthly Nessus scans, compliance checks, and general reports. \n Created reports drafts, Proof of Concepts, attack scenarios for the tests, and immediate disclosures. \n Localized, set up, and ran Minimum Baseline Security Standard checks provided by the parent company. \n Created awareness content as training materials for employees to be used within the entire corporation. \n Identified and presented the performance of proactive all-source research to identify and characterize new threats, vulnerabilities, and risks to the customer security context. \n
     },
   ],
   certifications: [
