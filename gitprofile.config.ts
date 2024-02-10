@@ -1,4 +1,4 @@
-// gitprofile.config.ts
+ee// gitprofile.config.ts
 
 const CONFIG = {
   github: {
@@ -63,7 +63,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'public/Nilaa Maharjan-CV_1.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'public/Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
