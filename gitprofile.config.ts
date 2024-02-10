@@ -182,4 +182,7 @@ const CONFIG = {
       '--rounded-btn': '3rem',
     },
   },
+    enablePWA: true,
+};
+
 export default CONFIG;
