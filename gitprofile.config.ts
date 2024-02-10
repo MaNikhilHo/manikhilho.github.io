@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Nilaa Maharjan',
     description: '',
     imageURL: '',
   },
@@ -88,11 +88,12 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'SCHWARZ IT, Heilbronn, Germany',
+      position: 'Security Analytics Engineer, Research and Development (Studentwerker)',
+      from: 'July 2023',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://it.schwarz/',
+      tasks: 'Tuning existing Use Cases and Runbooks and creating new where necessary based on the needs of the company and threat model. \nResearching and developing in-house malicious macro detection tool. \nIncident Detection and Response.'
     },
     {
       company: 'Company Name',
@@ -156,37 +157,6 @@ const CONFIG = {
     themes: [
       'light',
       'dark',
-      'cupcake',
-      'bumblebee',
-      'emerald',
-      'corporate',
-      'synthwave',
-      'retro',
-      'cyberpunk',
-      'valentine',
-      'halloween',
-      'garden',
-      'forest',
-      'aqua',
-      'lofi',
-      'pastel',
-      'fantasy',
-      'wireframe',
-      'black',
-      'luxury',
-      'dracula',
-      'cmyk',
-      'autumn',
-      'business',
-      'acid',
-      'lemonade',
-      'night',
-      'coffee',
-      'winter',
-      'dim',
-      'nord',
-      'sunset',
-      'procyon',
     ],
 
     // Custom theme, applied to `procyon` theme
@@ -200,15 +170,4 @@ const CONFIG = {
       '--rounded-btn': '3rem',
     },
   },
-
-  // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
-      target="_blank"
-      rel="noreferrer"
-    >GitProfile</a> and ❤️`,
-
-  enablePWA: true,
-};
-
 export default CONFIG;
