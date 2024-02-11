@@ -28,7 +28,7 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          /*title: 'Project Name',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
@@ -42,7 +42,7 @@ const CONFIG = {
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
-        },
+        }, */
       ],
     },
   },
@@ -66,20 +66,16 @@ const CONFIG = {
       'public/Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
+    'Blue Teaming',
+    'Threat Intelligence',
+    'Digital Forensics',
+    'SOC',
+    'Incidence Response',
+    'Red Teaming',
+    'Penetration Testing',
+    'Vulnerability Management',
     'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Docker'
   ],
   experiences: [
     {
@@ -109,38 +105,42 @@ const CONFIG = {
     {
       company: 'NCELL PVT. LTD, Kathmandu, Nepal',
       position: 'Information Security Analyst',
-      from: 'August 2020',
-      to: 'November 2021',
+      from: 'December 2020',
+      to: 'February 2021',
       companyLink: 'https://digitalnetwork.com.np/',
       tasks: 'Tested the company web portal for bugs, issues, and vulnerabilities and reported them immediately. <br/>-  Took a hands-on approach with network security operations. <br/>- Conducted System/Network scanning and auditing for monthly threat and security vulnerability assessment. <br/>- Ran, administered and reported on monthly Nessus scans, compliance checks, and general reports. <br/>- Created report drafts, Proof of Concepts, attack scenarios for the tests, and immediate disclosures. <br/>- Localized, set up, and ran Minimum Baseline Security Standard checks provided by the parent company. <br/>- Created awareness content as training materials for employees to be used within the entire corporation. <br/>- Identified and presented the performance of proactive all-source research to identify and characterize new threats, vulnerabilities, and risks to the customer security context.'
+    },
+    {
+      company: 'EMINENCE WAYS, Kathmandu, Nepal',
+      position: 'Web Security Researcher (Intern)',
+      from: 'August 2019',
+      to: 'November 2019',
     },
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
+      name: 'Blue Team Level 1',
       link: 'https://example.com',
     },
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Saarland University',
+      degree: 'Masters in Cybersecurity',
+      from: '2023',
+      to: '2025',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'London Metropolitan University',
+      degree: 'Bachelors in Networking and IT Security',
+      from: '2017',
+      to: '2020',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: 'manikhilho', // to hide blog section, keep it empty
     limit: 3, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
@@ -152,7 +152,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'nord',
+    defaultTheme: 'dark',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
