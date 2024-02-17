@@ -15,12 +15,8 @@ const CONFIG = {
         limit: 8, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
-          projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+          projects: [], // These projects will not be displayed.
         },
-      },
-      manual: {
-        // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -28,21 +24,17 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          /*title: 'Project Name',
+          title: 'Emerging Threats - Logpoint',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'Research with detection queries in Logpoint about past CVEs, Malware and Security Threats',
+          link: 'https://www.logpoint.com/en/?s=nilaa+maharjan&post_type[]=any&fs=1&lang=en',
         },
         {
-          title: 'Project Name',
+          title: 'Additional Independent Research',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        */}, 
+            'Will continue to research and post about Life as a Security Researcher - Medium',
+          link: 'https://medium.com/@realnikhiljyapu',
+        }, 
       ],
     },
   },
@@ -54,7 +46,6 @@ const CONFIG = {
   social: {
     linkedin: 'manikhilho',
     twitter: 'manikhilho',
-    facebook: '',
     instagram: 'manikhilho',
     medium: 'manikhilho',
     website: 'https://www.manikhilho.wordpress.com',
@@ -63,7 +54,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'public/Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Blue Teaming',
