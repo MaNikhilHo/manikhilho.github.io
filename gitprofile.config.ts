@@ -54,7 +54,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      '/Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Blue Teaming',
