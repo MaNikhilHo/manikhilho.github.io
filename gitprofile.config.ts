@@ -52,8 +52,7 @@ const CONFIG = {
   social: {
     linkedin: 'manikhilho',
     twitter: 'manikhilho',
-    instagram: 'manikhilho',
-    medium: 'manikhilho',
+    medium: '@RealNikhilJyapu',
     website: 'https://www.manikhilho.wordpress.com',
     phone: '',
     email: 'nilaamhr@gmail.com',
