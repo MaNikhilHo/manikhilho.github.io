@@ -35,12 +35,18 @@ const CONFIG = {
             'Will continue to research and post about Life as a Security Researcher - Medium',
           link: 'https://medium.com/@realnikhiljyapu',
         }, 
+        {
+          title: 'ResearchGate',
+          description:
+            'Some published researchgate articles',
+          link: 'https://www.researchgate.net/profile/Nilaa_Maharjan',
+        }, 
       ],
     },
   },
   seo: {
     title: 'Portfolio of Nilaa Maharjan',
-    description: '',
+    description: 'Portfolio page for nilaa maharjan. Manikhilho, MaNikhilHo. Resume. Github Profile',
     imageURL: '',
   },
   social: {
@@ -132,7 +138,7 @@ const CONFIG = {
   blog: {
     source: 'medium', // medium | dev
     username: '@realnikhiljyapu', // to hide blog section, keep it empty
-    limit: 3, // How many articles to display. Max is 10.
+    limit: 5, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
