@@ -114,90 +114,57 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Blue Team Level 1',
+      name: 'Blue Team Level 1 (BTL1)',
       body: 'This certification covers the following domains; Security Fundamentals, Phishing Analysis, Digital Forensics, Threat Intelligence, SIEM, Incident Response. Ends with a 24-hour incident response exam.',
       year: 'January 2022',
       link: 'https://elearning.securityblue.team/home/certificate/569726006',
     },
-        {
+    {
       name: 'Certified Ethical Hacker (CEH v12)',
       body: 'The C|EH exam is a 4-hour exam with 125 multiple-choice questions. This knowledge-based exam will test your skills in Information Security Threats and Attack Vectors, Attack Detection, Attack Prevention, Procedures, Methodologies and more!',
       year: 'December 2021',
       link: 'https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/',
     },
-        {
+    {
+      name: 'Certified Application Practitioner (CAP)',
+      body: 'CAP is intended to be taken by application security engineers, application developers, SOC analysts, penetration testers, red and blue team members and any appsec enthusiast, who wants to evaluate and advance their knowledge.',
+      year: 'March 2023',
+      link: 'https://secops.group/product/certified-application-security-practitioner/',
+    },
+    {
+      name: '(ISC)² cc',
+      body: 'This certification covers the following domains; Security Fundamentals, Phishing Analysis, Digital Forensics, Threat Intelligence, SIEM, Incident Response. Ends with a 24-hour incident response exam.',
+      year: 'January 2021',
+    },
+    {
+      name: 'Aviatrix Multi-Cloud Networking Associate',
+      year: 'September 2020',
+    },
+    {
+      name: 'Fortinet NSE 2 Network Security Associate',
+      year: 'May 2020',
+    },
+    {
+      name: 'CNSS Certified Network Specialist | ICSI (International CyberSecurity Institute)',
+      year: 'May 2020',
+    },
+    {
+      name: 'Cloudflare Accredited Service Architect',
+      year: 'May 2021',
+    },
+    {
+      name: 'Cloudflare Accredited Sales Professional',
+      year: 'May 2021',
+    },
+    {
+      name: 'SkillFront ISO/IEC 27001 Information Security Associate',
+      year: 'May 2021',    },
+    {
       name: 'Blue Team Level 1',
       body: 'This certification covers the following domains; Security Fundamentals, Phishing Analysis, Digital Forensics, Threat Intelligence, SIEM, Incident Response. Ends with a 24-hour incident response exam.',
       year: 'January 2022',
       link: 'https://elearning.securityblue.team/home/certificate/569726006',
     },
-        {
-      name: 'Blue Team Level 1',
-      body: 'This certification covers the following domains; Security Fundamentals, Phishing Analysis, Digital Forensics, Threat Intelligence, SIEM, Incident Response. Ends with a 24-hour incident response exam.',
-      year: 'January 2022',
-      link: 'https://elearning.securityblue.team/home/certificate/569726006',
-    },
-        {
-      name: 'Blue Team Level 1',
-      body: 'This certification covers the following domains; Security Fundamentals, Phishing Analysis, Digital Forensics, Threat Intelligence, SIEM, Incident Response. Ends with a 24-hour incident response exam.',
-      year: 'January 2022',
-      link: 'https://elearning.securityblue.team/home/certificate/569726006',
-    },
-        {
-      name: 'Blue Team Level 1',
-      body: 'This certification covers the following domains; Security Fundamentals, Phishing Analysis, Digital Forensics, Threat Intelligence, SIEM, Incident Response. Ends with a 24-hour incident response exam.',
-      year: 'January 2022',
-      link: 'https://elearning.securityblue.team/home/certificate/569726006',
-    },
-        {
-      name: 'Blue Team Level 1',
-      body: 'This certification covers the following domains; Security Fundamentals, Phishing Analysis, Digital Forensics, Threat Intelligence, SIEM, Incident Response. Ends with a 24-hour incident response exam.',
-      year: 'January 2022',
-      link: 'https://elearning.securityblue.team/home/certificate/569726006',
-    },
-        {
-      name: 'Blue Team Level 1',
-      body: 'This certification covers the following domains; Security Fundamentals, Phishing Analysis, Digital Forensics, Threat Intelligence, SIEM, Incident Response. Ends with a 24-hour incident response exam.',
-      year: 'January 2022',
-      link: 'https://elearning.securityblue.team/home/certificate/569726006',
-    },
-        {
-      name: 'Blue Team Level 1',
-      body: 'This certification covers the following domains; Security Fundamentals, Phishing Analysis, Digital Forensics, Threat Intelligence, SIEM, Incident Response. Ends with a 24-hour incident response exam.',
-      year: 'January 2022',
-      link: 'https://elearning.securityblue.team/home/certificate/569726006',
-    },
-        {
-      name: 'Blue Team Level 1',
-      body: 'This certification covers the following domains; Security Fundamentals, Phishing Analysis, Digital Forensics, Threat Intelligence, SIEM, Incident Response. Ends with a 24-hour incident response exam.',
-      year: 'January 2022',
-      link: 'https://elearning.securityblue.team/home/certificate/569726006',
-    },
-        {
-      name: 'Blue Team Level 1',
-      body: 'This certification covers the following domains; Security Fundamentals, Phishing Analysis, Digital Forensics, Threat Intelligence, SIEM, Incident Response. Ends with a 24-hour incident response exam.',
-      year: 'January 2022',
-      link: 'https://elearning.securityblue.team/home/certificate/569726006',
-    },
-        {
-      name: 'Blue Team Level 1',
-      body: 'This certification covers the following domains; Security Fundamentals, Phishing Analysis, Digital Forensics, Threat Intelligence, SIEM, Incident Response. Ends with a 24-hour incident response exam.',
-      year: 'January 2022',
-      link: 'https://elearning.securityblue.team/home/certificate/569726006',
-    },
-        {
-      name: 'Blue Team Level 1',
-      body: 'This certification covers the following domains; Security Fundamentals, Phishing Analysis, Digital Forensics, Threat Intelligence, SIEM, Incident Response. Ends with a 24-hour incident response exam.',
-      year: 'January 2022',
-      link: 'https://elearning.securityblue.team/home/certificate/569726006',
-    },
-        {
-      name: 'Blue Team Level 1',
-      body: 'This certification covers the following domains; Security Fundamentals, Phishing Analysis, Digital Forensics, Threat Intelligence, SIEM, Incident Response. Ends with a 24-hour incident response exam.',
-      year: 'January 2022',
-      link: 'https://elearning.securityblue.team/home/certificate/569726006',
-    },
-    
   ],
   educations: [
     {
