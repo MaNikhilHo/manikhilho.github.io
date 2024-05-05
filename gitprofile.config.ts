@@ -53,8 +53,6 @@ const CONFIG = {
     linkedin: 'manikhilho',
     twitter: 'manikhilho',
     medium: '@RealNikhilJyapu',
-    website: 'https://www.manikhilho.wordpress.com',
-    email: 'nilaamhr@gmail.com',
   },
   resume: {
     fileUrl:
